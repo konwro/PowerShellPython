@@ -1,0 +1,4 @@
+https://www.phillipsj.net/posts/executing-powershell-from-python/
+https://www.markdownguide.org/cheat-sheet
+https://www.phillipsj.net/posts/poshpy-easier-powershelling-from-python/
+https://github.com/blueghostlabs/poshpy
